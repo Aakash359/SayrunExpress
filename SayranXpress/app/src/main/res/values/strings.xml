@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">SayranXpress</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_demo">Splash Screen Demo</string>
+    <string name="splash_message">Welcome to SayranXpress</string>
+    <string name="first_name_error">First Name Required</string>
+    <string name="last_name_error">Last Name Required</string>
+    <string name="email_error">Enter Valid Email Address </string>
+    <string name="password_error">Password Must Be Required</string>
+    <string name="mobile_error">Enter Valid Mobile Number</string>
+    <!--- spinner 1 -->
+    <string name="Material_Type">Choose a Material</string>
+
+    <string-array name="material_arrays">
+        <item>Select</item>
+        <item>Auto Parts</item>
+        <item>Bardana jute Or Plastic</item>
+        <item>Building And Material</item>
+        <item>Cement</item>
+        <item>Chemicals</item>
+        <item>Coal and Ash</item>
+        <item>Cotton Seeds</item>
+        <item>Electronics Consumer Durable</item>
+        <item>Fertilizers</item>
+        <item>Fruits and Vegetables</item>
+        <item>Furniture and Wood Products</item>
+        <item>HouseHolds and Goods</item>
+        <item>Industrial Equipments</item>
+        <item>Iron Sheets Or Bats Or Scraps</item>
+        <item>Liquid In Drums</item>
+        <item>Liquid/Oil</item>
+        <item>Machinery New Or Old</item>
+        <item>Medicals</item>
+        <item>Metals </item>
+        <item>Mil Jute Oil</item>
+        <item>Others</item>
+        <item>Packed Food</item>
+        <item>Plastic Pipes Or Others Products</item>
+        <item>Powder Bags </item>
+        <item>Printed Books Or Papers Rolls</item>
+        <item>Refrigerated Goods </item>
+        <item>Rice Or Wheal Or Agriculture Products</item>
+        <item>Scraps</item>
+        <item>Spices</item>
+        <item>Textile</item>
+        <item>Tyres Rubbers Products</item>
+        <item>Vehicle Or Car</item>
+    </string-array>
+    <!--- spinner 2 -->
+    <string name="Weight_Type">Choose a Weight </string>
+
+    <string-array name="Weight_arrays">
+        <item>Select</item>
+        <item>Upto 1</item>
+        <item>Upto 2 </item>
+        <item>Upto 3</item>
+        <item>Upto 4</item>
+        <item>Upto 5</item>
+        <item>Upto 6</item>
+        <item>Upto 7</item>
+        <item>Upto 8</item>
+        <item>Upto 9</item>
+        <item>Upto 10</item>
+    </string-array>
+    <!--- spinner 3 -->
+    <string name="Vehicle_Type">Choose a Vehicle</string>
+
+    <string-array name="Vehicle_arrays">
+        <item>Select</item>
+        <item>Container 7.5 Ton/6 Wheel</item>
+        <item>Container Close Body 20 Feet</item>
+        <item>Container Close Body 24 Feet</item>
+        <item>Flat Bod Trailer</item>
+        <item>Refrigerated / A.C Container</item>
+        <item>Semi Low Bad Trailer</item>
+        <item>Tata 407.24 Ton/4 Wheel </item>
+        <item>Truck 9 Ton/6 Wheel</item>
+    </string-array>
+    <!--- spinner 4 -->
+    <string name="No_OF_vehicle">Choose a vehicle type</string>
+
+    <string-array name="No_OF_vehicle_arrays">
+        <item>Select</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+</resources>
